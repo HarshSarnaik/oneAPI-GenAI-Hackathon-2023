@@ -15,11 +15,11 @@ To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these ste
 
 ### README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Bravo
+#### Problem Statement - GenAI-Powered Customer Support Optimization
+#### Team Leader Email - harshsarnaik@gmail.com
 
-### A Brief of the Prototype:
+### A Brief of the Prototype: We will use AI for customer service/support as a fast and efficient way .
   This section must include UML Diagrams and prototype description
   
 ### Tech Stack: 
